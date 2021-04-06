@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.femaleUser {
+  background-color: pink;
+}
+
+.maleUser {
+  background-color: powderblue;
+}
